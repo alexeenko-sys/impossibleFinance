@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Acre';
+	src: url('fonts/Jonathan Ball - Acre-Medium.eot');
+	src: local('☺'), url('fonts/Jonathan Ball - Acre-Medium.woff') format('woff'), url('fonts/Jonathan Ball - Acre-Medium.ttf') format('truetype'), url('fonts/Jonathan Ball - Acre-Medium.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
